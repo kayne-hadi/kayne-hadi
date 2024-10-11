@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 A High School Programmer
 
 ## Work Experience
@@ -6,19 +6,19 @@ A High School Programmer
 - Human Resources at Binus Internship (2023)
 - GREENS x KAI Internship as CEO and CMO (2024）
 - PT Tatalogam Internship in IT Department and SKsoft (2024)
-- PT Simian Group Internship in Business Analysis and Software Consulting (June 2024)
+- PT Simian Group Internship in Business Analysis and Software Consulting (June 2024)<br/>
 
 ## Personal Projects
 - MathQuest Academy 
-- ...More Coming Soon!!!
+- ...More Coming Soon!!!<br/>
 
 ## Passions
 - Performing as a saxophonist and pianist 🎷
 - Playing Basketball in my varsity team! 🏀
-- Hanging around friends and family 👥
+- Hanging around friends and family 👥<br/>
 
 ## How to Reach Me 
-discord: saxomouse
+discord: saxomouse<br/>
 
 <!--
 **kayne-hadi/kayne-hadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
